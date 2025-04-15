@@ -1,0 +1,21 @@
+# Ignore virtual environments
+myProjectEnv/
+.env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings (if using)
+.vscode/
+
+# Log files
+*.log
